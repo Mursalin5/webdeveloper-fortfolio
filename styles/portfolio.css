@@ -82,12 +82,13 @@ nav a {
 
 /* main section styles*/
 .about{
+    margin-top: 100px;
     padding:130px;
     border-radius: 10px;
     background: #FFF8F3;
     border:0;
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 700px;
     padding: 15px 35px;
 }
 .section-title{
@@ -101,4 +102,16 @@ nav a {
     text-align: center;
     font-size: 18px;
     margin: 130px o;
+}
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.about-info{
+    text-align:center
 }
