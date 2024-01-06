@@ -82,7 +82,7 @@ nav a {
 
 /* main section styles*/
 .about{
-    margin-top: 100px;
+    margin: 100px 150px;
     padding:130px;
     border-radius: 10px;
     background: #FFF8F3;
@@ -114,4 +114,13 @@ nav a {
 }
 .about-info{
     text-align:center
+}
+#what-I-do-discription{
+    padding: 30px 150px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.skills-container{
+    display: flex;
 }
